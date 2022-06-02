@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   style="display:inline;enable-background:new"
+   version="1.0"
+   id="svg11300"
+   height="128"
+   width="128"
+   sodipodi:docname="mednaffe.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview24"
+     showgrid="true"
+     inkscape:zoom="3"
+     inkscape:cx="48.42677"
+     inkscape:cy="73.738658"
+     inkscape:window-x="48"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3729" />
+  </sodipodi:namedview>
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient960">
+      <stop
+         style="stop-color:#5e1ce9;stop-opacity:1;"
+         offset="0"
+         id="stop956" />
+      <stop
+         style="stop-color:#5e1ce9;stop-opacity:0;"
+         offset="1"
+         id="stop958" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient960"
+       id="linearGradient962"
+       x1="20"
+       y1="103"
+       x2="105"
+       y2="38"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Adwaita Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="rotate(-30,92.546231,184.49096)"
+     id="g1710"
+     style="display:inline;enable-background:new" />
+  <text
+     id="text1204"
+     y="218.00003"
+     x="107.99998"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+     xml:space="preserve"><tspan
+       y="225.90536"
+       x="107.99998"
+       id="tspan1202" /></text>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#4305c6;fill-opacity:1;stroke:none;stroke-width:1.41549647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+     d="m 20.039062,16 c -4.432,0 -8,3.568 -8,8 v 84 c 0,4.432 3.568001,8 8,8 h 39.957032 4.042968 43.294918 C 113.41027,116 116,111.48425 116,105.875 V 66 H 64.039062 V 16 Z"
+     id="path1518" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path964"
+     d="m 20.039062,12 c -4.432,0 -8,3.568 -8,8 v 84 c 0,4.432 3.568001,8 8,8 h 40 4 44.001958 c 4.432,0 8,-3.568 8,-8 V 20 c 0,-4.432 -3.568,-8 -8,-8 h -44.001958 -4 z"
+     style="display:inline;opacity:1;fill:#034eff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+  <path
+     inkscape:connector-curvature="0"
+     style="display:inline;opacity:1;fill:url(#linearGradient962);fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new"
+     d="m 20.039062,12 c -4.432,0 -8,3.568 -8,8 v 84 c 0,4.432 3.568001,8 8,8 h 40 4 44.001958 c 4.432,0 8,-3.568 8,-8 V 20 c 0,-4.432 -3.568,-8 -8,-8 h -44.001958 -4 z"
+     id="path1520" />
+  <g
+     id="g917"
+     transform="translate(-0.499999,5)"
+     style="fill:#21457c;fill-opacity:1">
+    <path
+       style="fill:#21457c;fill-opacity:1;stroke-width:0.34486151;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:transform-center-x="-0.1603412"
+       inkscape:transform-center-y="3.1673298"
+       d="M 29.999999,28.000001 65,53 100,28.000001 v 25 L 65,78 29.999999,53.000001 Z"
+       id="path911"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#21457c;fill-opacity:1;stroke:#f4f1f1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect913"
+       width="20"
+       height="50"
+       x="30"
+       y="43" />
+    <rect
+       y="43"
+       x="80"
+       height="50"
+       width="20"
+       id="rect915"
+       style="fill:#21457c;fill-opacity:1;stroke:#f4f1f1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.34486151;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 29.500001,28 V 42.525391 54.763672 93 h 20 V 68.041016 l 15,9.958984 15,-10.714844 V 93 H 99.5 V 53 43 28 L 64.500001,53 Z"
+     id="path4730"
+     inkscape:connector-curvature="0" />
+</svg>
