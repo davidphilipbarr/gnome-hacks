@@ -1,0 +1,52 @@
+
+stage {
+
+  font-size: 10pt;
+
+
+}
+.popup-menu {
+  font-size:9pt;
+
+
+}
+
+
+#panel .panel-corner {
+    -panel-corner-radius: 0;
+     }
+
+
+#panel.solid,#panel
+{
+  height: 2em;
+   background-color: rgba(0, 0, 0, 0.3);
+
+
+}
+
+  #panel.unlock-screen, #panel.login-screen, #panel:overview {
+    background-color: transparent; }
+
+
+
+
+  
+
+.dash-background {
+/*  background-color: rgba(218, 218, 218, 0.088); 
+*/
+border: 1px rgba(211, 211, 211, 0.188); 
+ }
+
+ .workspaces-view, .workspace-switcher-box, .workspace-thumbnails, .page-indicator, .workspace-switcher-container, .workspace-switcher {
+   border-radius: 50px
+ }
+
+
+
+
+.popup-menu-content, .candidate-popup-content {
+ 
+  background-color: rgba(48, 48, 48, 0.95); 
+}
