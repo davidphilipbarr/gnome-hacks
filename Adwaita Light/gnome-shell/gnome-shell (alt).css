@@ -1,0 +1,99 @@
+
+stage {
+
+  font-size: 10pt;
+
+
+}
+.popup-menu {
+  font-size:9pt;
+
+
+}
+
+
+#panel .panel-corner {
+    -panel-corner-radius: 0;
+     }
+
+
+#panel.solid,#panel
+{
+  height: 2em;
+   background-color: rgba(0, 0, 0, 0.3);
+
+
+}
+
+  #panel.unlock-screen, #panel.login-screen, #panel:overview {
+    background-color: transparent; }
+
+
+
+
+  
+
+.dash-background {
+ background-color: rgba(218, 218, 218, 0.088); 
+
+border: 1px rgba(211, 211, 211, 0.188); 
+ }
+
+ .workspaces-view, .workspace-switcher-box, .workspace-thumbnails, .page-indicator, .workspace-switcher-container, .workspace-switcher {
+   border-radius: 50px
+ }
+
+
+
+
+.popup-menu-content, .candidate-popup-content {
+ 
+  background-color: rgba(48, 48, 48, 0.95); 
+}
+
+#overviewGroup {
+  background-image: url("/home/david/.local/share/backgrounds/blurred_fast.jpg"); 
+  background-repeat: no-repeat;
+
+   background-size: cover
+
+  
+  
+  } 
+  
+  
+  .search-entry {
+    border-radius: 18px;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    padding: 7px 9px;
+    width: 320px;
+    background-color: rgba(23, 23, 23, 0.2);
+    color: rgba(255, 255, 255, 0.7);
+    border: 1px rgba(211, 211, 211, 0.188);  } 
+    
+    
+     .search-entry:hover {
+      background-color: rgba(23, 23, 23, 0.7);
+      border-color: #474747;
+      color: rgba(255, 255, 255, 0.7); }
+    
+    .search-entry:focus {
+      background-color: #3c4045;
+      border-color: #3584e4;
+      color: white; }
+    
+    .search-entry:insensitive {
+      background-color: #383838;
+      border-color: #383838;
+      color: #979797; }.dash-background {
+        border: 1px rgba(211, 211, 211, 0.188); 
+      
+           /*
+        background-color: rgba(255, 255,255, .1);
+  
+       border: 1px rgba(23, 23, 23, 0.188); 
+       */
+        background-color: rgba(23, 23, 23, .4);
+       
+       }
