@@ -1,0 +1,21 @@
+#panel.solid,#panel
+{
+  height: 2em;
+   background-color: rgba(0, 0, 0, 0.4);
+
+  background-image: url("~/.local/share/backgrounds/blurred_panel.jpg"); 
+  background-repeat: no-repeat;
+
+   background-size: cover
+
+}
+
+
+#overviewGroup {
+  background-image: url("~/.local/share/backgrounds/blurred_fast.jpg"); 
+  background-repeat: no-repeat;
+
+   background-size: cover
+
+  
+  } 
