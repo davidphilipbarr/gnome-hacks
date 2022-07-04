@@ -1,21 +1,18 @@
 #panel.solid,#panel
 {
   height: 2em;
-   background-color: rgba(0, 0, 0, 0.4);
-
-  background-image: url("$HOME/.local/share/backgrounds/blurred_panel.jpg"); 
+  background-image: url("YOURHOME/.local/share/backgrounds/blurred_panel.jpg"); 
   background-repeat: no-repeat;
+  background-size: cover
+   }
 
-   background-size: cover
-
-}
-
+  #panel.unlock-screen, #panel.login-screen, #panel:overview {
+    background-color: transparent; 
+    background-image: none;
+   }
 
 #overviewGroup {
-  background-image: url("$HOME/.local/share/backgrounds/blurred_fast.jpg"); 
+  background-image: url("YOURHOME/.local/share/backgrounds/blurred_fast.jpg"); 
   background-repeat: no-repeat;
-
-   background-size: cover
-
-  
+  background-size: cover
   } 
