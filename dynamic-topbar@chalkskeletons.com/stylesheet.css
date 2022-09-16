@@ -1,0 +1,29 @@
+#panel.transparent-top-bar--solid {
+transition-duration: 300ms;
+}
+
+#panel.transparent-top-bar--transparent {
+    background-color: rgba(0, 0, 0, 0);
+transition-duration: 500ms;
+}
+#panel.transparent-top-bar--transparent:overview {
+    background-color: transparent;
+    transition-duration: 250ms;
+}
+
+#panel.transparent-top-bar--transparent .panel-button {
+    color: #eee;
+transition-duration: 250ms;
+}
+
+#panel.transparent-top-bar--invert .panel-button {
+    color: #111;
+transition-duration: 250ms;
+}
+
+
+#panel.transparent-top-bar--invert:overview  .panel-button{
+      color: #eee;
+      transition-duration: 250ms;
+}
+
