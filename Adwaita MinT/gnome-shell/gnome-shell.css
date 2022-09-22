@@ -1,0 +1,70 @@
+stage { 
+font-size: 12pt
+
+}
+
+    
+.dash-background {
+  border: 1px rgba(211, 211, 211, 0.188); 
+  background-color: rgba(255, 255,255, .1);
+ /*
+ border: 1px rgba(23, 23, 23, 0.188); 
+ */
+
+ 
+ }
+
+
+ .popup-menu-content, .candidate-popup-content {
+ 
+  background-color: rgba(48, 48, 48, 0.94); 
+}
+
+/*
+#panel.solid,#panel
+{
+
+  background-image: url("/home/david/.local/share/backgrounds/blurred_panel.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover
+   }
+
+#panel.unlock-screen, #panel.login-screen, #panel:overview {
+    background-color: transparent; 
+    background-image: none;
+   }
+   */
+   
+#overviewGroup {
+  background-image: url("/home/david/.local/share/backgrounds/blurred_fast.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover
+  } 
+  
+     
+.search-entry {
+  background-color: rgba(255, 255,255, .2);
+  border: 1px rgba(255, 255,255, 0.188); 
+   } 
+   
+.search-entry:hover {
+    background-color: rgba(23, 23, 23, 0.3);
+    border-color: #474747;
+    color: rgba(255, 255, 255, 0.7); }
+  
+.search-entry:focus {
+    background-color: #3c4045;
+    border-color: #3584e4;
+    color: white; }
+  
+.search-entry:insensitive {
+    background-color: #383838;
+    border-color: #383838;
+    color: #979797; }
+    
+.modal-dialog .modal-dialog-linked-button, .hotplug-notification-item, .notification-banner .notification-button {
+   background-color: rgba(82,82,82,.94) }
+
+.dash-label {
+  background-color: rgba(35,35,35,.8)
+ }
