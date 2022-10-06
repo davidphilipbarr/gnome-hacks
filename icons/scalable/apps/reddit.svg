@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg11300"
+   version="1.0"
+   style="display:inline;enable-background:new"
+   viewBox="0 0 128 128"
+   sodipodi:docname="reddit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="true"
+     inkscape:zoom="4.6796875"
+     inkscape:cx="65.495826"
+     inkscape:cy="71.692821"
+     inkscape:current-layer="svg11300">
+    <inkscape:grid
+       type="xygrid"
+       id="grid918" />
+  </sodipodi:namedview>
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Adwaita Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     r="60"
+     style="fill:#ae3407;fill-opacity:1;stroke-width:1.2614516"
+     id="circle940"
+     cy="67"
+     cx="64"
+     class="cls-1" />
+  <circle
+     class="cls-1"
+     cx="64"
+     cy="64"
+     id="ellipse22-3"
+     style="fill:#ff4500;fill-opacity:1;stroke-width:1.2614516"
+     r="60" />
+  <path
+     inkscape:connector-curvature="0"
+     class="cls-3"
+     d="m 103.11121,64.353916 a 8.8661112,8.5944928 0 0 0 -8.737979,-8.69382 8.6483017,8.383356 0 0 0 -6.085842,2.48392 42.626519,41.320632 0 0 0 -23.42091,-7.45188 l 4.010276,-18.75384 13.030109,2.78201 a 6.2395893,6.0484359 0 1 0 6.239592,-6.50795 6.2139649,6.0235966 0 0 0 -5.586171,3.50236 l -14.541956,-3.16706 a 1.4862267,1.4406953 0 0 0 -1.140298,0.22346 1.3965406,1.3537568 0 0 0 -0.640604,0.99359 l -4.445896,20.92728 a 42.52402,41.221272 0 0 0 -23.779596,7.45188 8.6226773,8.3585167 0 0 0 -6.085832,-2.48392 8.8532984,8.5820726 0 0 0 -8.725219,8.69383 8.9686093,8.6938508 0 0 0 5.12496,7.94866 17.065982,16.543156 0 0 0 -0.21789,2.64545 c 0,13.46303 15.682249,24.417297 35.015999,24.417297 19.333763,0 35.016016,-10.879727 35.016016,-24.417297 a 17.809096,17.263504 0 0 0 -0.217822,-2.64545 9.1351695,8.8553084 0 0 0 5.188973,-7.94866 z m -60.01282,6.20991 a 6.2395893,6.0484359 0 1 1 6.239585,6.20986 6.342088,6.1477945 0 0 1 -6.239585,-6.20986 z m 34.875088,16.55556 c -4.2921,4.297237 -12.453555,4.558057 -14.823839,4.558057 -2.370277,0 -10.595748,-0.36004 -14.823832,-4.582877 a 1.6912235,1.6394119 0 0 1 0,-2.28523 1.5631005,1.515214 0 0 1 2.293431,0 c 2.716174,2.71993 8.456116,3.65138 12.530401,3.65138 4.074336,0 9.878295,-0.93145 12.530456,-3.65138 a 1.5631005,1.515214 0 0 1 2.293383,0 1.8193464,1.7636097 0 0 1 0,2.31005 z m -1.140303,-10.23387 a 6.4061495,6.2098935 0 1 1 6.226792,-6.20991 6.342088,6.1477945 0 0 1 -6.226792,6.20991 z"
+     id="path24"
+     style="fill:#f6f5f4;stroke-width:1.2614516" />
+  <g
+     style="display:inline;fill:#000000;enable-background:new"
+     transform="matrix(7.9911709,0,0,8.0036407,-167.7909,-5018.0776)"
+     id="g12027" />
+  <g
+     id="g883"
+     style="fill:none;fill-opacity:0.25098039;stroke:#a579b3;stroke-opacity:1"
+     transform="translate(-24,-148)" />
+  <g
+     id="g900"
+     style="fill:none;fill-opacity:0.25098039;stroke:#a579b3;stroke-opacity:1"
+     transform="translate(-24,-148)" />
+</svg>
