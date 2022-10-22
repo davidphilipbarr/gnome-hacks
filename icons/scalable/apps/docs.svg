@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   id="svg11300"
+   version="1.0"
+   style="display:inline;enable-background:new"
+   viewBox="0 0 128 128"
+   sodipodi:docname="docs.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1374"
+     id="namedview58"
+     showgrid="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-53.209786"
+     inkscape:cy="111.72287"
+     inkscape:current-layer="svg11300"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4615" />
+  </sodipodi:namedview>
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Adwaita Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect445"
+     style="display:inline;fill:#12437f;stroke-width:0.252959;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     transform="rotate(-90)"
+     d="m -115.20927,21 h 96.000003 c 4.432,0 8.584419,3.690746 8,8.190477 l -7.20365,55.464481 c -0.58442,4.499734 -15.260176,21.939032 -19.692121,21.961102 L -115.20927,107 c -4.43195,0.0221 -8,-3.65295 -8,-8.190477 V 29.190477 c 0,-4.537524 3.568,-8.190477 8,-8.190477 z"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     id="rect447"
+     style="display:inline;fill:#1c71d8;stroke-width:0.259206;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:new"
+     transform="rotate(-90)"
+     d="m -111,21 h 96 c 4.432,0 8.0013664,3.568 8,8 l -0.015604,50.613889 c -9.297998,8.993637 -18.2236,17.987274 -27.893993,26.980911 L -111,107 c -4.43194,0.0236 -8,-3.568 -8,-8 V 29 c 0,-4.432 3.568,-8 8,-8 z"
+     sodipodi:nodetypes="sssccssss" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.76932;stroke-linecap:round"
+     id="rect1109"
+     width="47.549999"
+     height="6.4354591"
+     x="39.829582"
+     y="48.246399" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.76932;stroke-linecap:round"
+     id="rect1556"
+     width="47.549999"
+     height="6.4354591"
+     x="39.87772"
+     y="63.653965" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.32367;stroke-linecap:round"
+     id="rect1558"
+     width="33.477482"
+     height="6.4354591"
+     x="40.002922"
+     y="80.05249" />
+  <path
+     id="path1706"
+     style="opacity:1;fill:#12437f;fill-opacity:1;stroke-width:3.76257;stroke-linecap:round"
+     inkscape:transform-center-x="-3.6977882"
+     inkscape:transform-center-y="1.0189135"
+     d="M 79.416434,35.02815 79.602901,7.0137549 106.58479,34.869751 Z"
+     sodipodi:nodetypes="cccc" />
+</svg>
