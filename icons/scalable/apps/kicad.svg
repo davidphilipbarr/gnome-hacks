@@ -29,9 +29,9 @@
      inkscape:window-height="989"
      id="namedview24"
      showgrid="true"
-     inkscape:zoom="5.2149126"
-     inkscape:cx="15.4365"
-     inkscape:cy="71.429769"
+     inkscape:zoom="7.3750001"
+     inkscape:cx="53.220338"
+     inkscape:cy="128.06779"
      inkscape:window-x="35"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
@@ -65,7 +65,7 @@
          offset="0"
          id="stop1195" />
       <stop
-         style="stop-color:#2a2aa1;stop-opacity:1;"
+         style="stop-color:#3131bc;stop-opacity:1;"
          offset="1"
          id="stop1197" />
     </linearGradient>
@@ -81,7 +81,7 @@
          offset="0"
          stop-color="#d5d3cf"
          id="stop1754"
-         style="stop-color:#21217d;stop-opacity:1;" />
+         style="stop-color:#1e1e73;stop-opacity:1;" />
       <stop
          offset="0.038"
          stop-color="#f6f5f4"
@@ -91,12 +91,12 @@
          offset="0.077"
          stop-color="#d5d3cf"
          id="stop1758"
-         style="stop-color:#21217d;stop-opacity:1;" />
+         style="stop-color:#1e1e73;stop-opacity:1;" />
       <stop
          offset="0.92299998"
          stop-color="#d5d3cf"
          id="stop1760"
-         style="stop-color:#21217d;stop-opacity:1;" />
+         style="stop-color:#1e1e73;stop-opacity:1;" />
       <stop
          offset="0.96200001"
          stop-color="#eeeeec"
@@ -106,7 +106,7 @@
          offset="1"
          stop-color="#d5d3cf"
          id="stop1764"
-         style="stop-color:#21217d;stop-opacity:1;" />
+         style="stop-color:#1e1e73;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <metadata
@@ -121,6 +121,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     d="M 106.99999,119.12054 H 19 a 7.9999995,8 0 0 1 -8,-8 v -24 a 7.9999995,8 0 0 1 8,-8 h 87.99999 a 7.9999995,8 0 0 1 8,8 v 24 a 7.9999995,8 0 0 1 -8,8 z m 0,0"
+     fill="url(#c)"
+     id="path334"
+     style="fill:#ff7800;fill-opacity:1;stroke-width:1" />
   <g
      transform="rotate(-30,92.546231,184.49096)"
      id="g1710"
