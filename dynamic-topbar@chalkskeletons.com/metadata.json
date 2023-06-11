@@ -2,7 +2,7 @@
   "description": "Bring back the transparent top bar when free-floating in GNOME Shell",
   "name": "Dynamic Top Bar",
   "shell-version": [
-    "43"
+    "44"
   ],
   "url": "",
   "uuid": "dynamic-topbar@chalkskeletons.com",
